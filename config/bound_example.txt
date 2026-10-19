@@ -1,0 +1,6 @@
+# Macierz, na ktorej dolne ograniczenie odcina optymalna trase (optimum 115).
+# Uruchomienie: atsp_bnb ../config/bound_example.txt
+algorithms = BFS, DFS, BEST_FIRST
+distance_matrix_file = matrix_5x5_bound.atsp
+run_simulation = false
+matrix_type = random

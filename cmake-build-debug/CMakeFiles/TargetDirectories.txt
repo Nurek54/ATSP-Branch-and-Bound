@@ -1,3 +1,0 @@
-C:/Users/g_sie/OneDrive/Pulpit/PEA_II/cmake-build-debug/CMakeFiles/PEA_I.dir
-C:/Users/g_sie/OneDrive/Pulpit/PEA_II/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/g_sie/OneDrive/Pulpit/PEA_II/cmake-build-debug/CMakeFiles/rebuild_cache.dir
